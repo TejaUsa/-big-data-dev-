@@ -15,7 +15,7 @@ In the past I worked as a web application developer (.NET, Angular Js) So I woul
 - [Github]( https://github.com/TejaUsa) 
 
 ## Me
-![Image]() 
+![Image](https://github.com/TejaUsa/-big-data-dev-/blob/main/Teja%20photo.jpeg) 
 
 
  
