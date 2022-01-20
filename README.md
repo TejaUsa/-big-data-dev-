@@ -9,7 +9,7 @@ I am pursuing Master's in Applied Computer Science at Northwest Missouri State U
 I'm from Guntur, in the Indian state of Andhra Pradesh. I completed my bachelor's degree in computer science and engineering from Nri Institute of Technology in Guntur.
 
 ## Plans
-In the past I worked as a web application developer (.NET, Angular Js) So I would to work in the .NET developer in the future.
+In the past I worked as a web application developer (.NET, Angular Js) So I would like to work in the .NET developer in the future.
 
 ## Links
 - [Github]( https://github.com/TejaUsa) 
